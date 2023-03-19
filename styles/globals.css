@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  background-color: grey;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 20px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header img {
+  width: 100px;
+}
+
+header a {
+  color: white;
+}
+
+header nav {
+  display: flex;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 0.8;
+  padding: 0 10px;
+}
+
+a:hover {
+  opacity: 1;
+}
+
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+}
+
+header {
+  justify-content: center;
+}
+
+img {
+  max-width: 100%;
+
+}
+
+footer {
+  background: grey;
+  bottom: 0;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 12vh;
+  position: absolute;
+  width: 100%;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 0.8;
+  padding: 0 10px;
+}
+
+a:hover {
+  opacity: 1;
+}
+
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+}
+
+header a {
+  color: white;
+}
+
+
+#produto {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+#produto {
+  max-width: 50%;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "image": "/images/apple1.jpg",
+        "titulo": "Apple iPhone 11",
+        "id": "01",
+        "descricao": "(64 ou 128 GB) Preto",
+        "preco": "3.392,10"
+    },
+    {
+        "image": "/images/XiaomiPoco1.jpg",
+        "titulo": "Xiaomi Poco X4 GT",
+        "id": "02",
+        "descricao": "(8gb RAM, 256gb) Preto",
+        "preco": "2.590,00"
+    },
+    {
+        "image": "/images/Xiaomi1.jpg",
+        "titulo": "Xiaomi Redmi Note 11",
+        "id": "03",
+        "descricao": "(6GB RAM, 128GB) Graphite Gray ",
+        "preco": "1.250,00"
+    },
+    {
+        "image": "/images/Xiaomi3.jpg",
+        "titulo": "Xiaomi Redmi A1",
+        "id": "04",
+        "descricao": "(2gb RAM, 32gb) Preto",
+        "preco": "545,000"
+    }
+]
